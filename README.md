@@ -1,0 +1,1 @@
+# pixadom-extension-privacy-policy
