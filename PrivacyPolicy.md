@@ -24,10 +24,6 @@ The Pixadom Stats Mod does not use cookies or any tracking technologies to monit
 
 We take the security of your data seriously and implement reasonable measures to protect it. However, please remember that no method of transmission over the internet is 100% secure.
 
-## Children's Privacy
-
-Our extension is not intended for use by children under the age of 13. We do not knowingly collect personal data from children.
-
 ## Changes to This Privacy Policy
 
 We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page. You are advised to review this privacy policy periodically for any changes.
